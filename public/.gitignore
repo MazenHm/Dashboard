@@ -1,0 +1,78 @@
+# Ignore node_modules directory
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+node_modules/
+bower_components/
+
+# Coverage directory used by testing tools
+coverage/
+
+# Production build directory
+build/
+
+# Temporary directories
+.tmp/
+.temp/
+.cache/
+
+# Local environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Miscellaneous files
+.DS_Store
+*.swp
+*.swo
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore public folder files
+public/static/
+
+# Ignore other dependency directories (if any)
+.pnp
+.pnp.js
+
+# Optional eslint cache
+.eslintcache
+
+# Yarn Integrity file
+.yarn-integrity
+
+# Output of 'npm pack'
+*.tgz
+
+# Optional REPL history
+.node_repl_history
+
+# Parcel-bundler cache (if using Parcel)
+.cache/
+.parcel-cache/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# JetBrains IDEs
+.idea/
+
+# Optional stylelint cache
+.stylelintcache
+
+# Mac system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
